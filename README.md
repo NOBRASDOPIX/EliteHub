@@ -1,5 +1,6 @@
 # EliteHub
 EliteHub, um script brasileiro
+
 EliteHub blox fruits:loadstring(game:HttpGet("https://raw.githubusercontent.com/Elite7/EliteHub/main/Elitescripts"))()
 
 EliteHub fisch:loadstring(game:HttpGet("https://raw.githubusercontent.com/Elite7/EliteHub/main/fisch"))()
