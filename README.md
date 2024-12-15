@@ -1,10 +1,9 @@
-# EliteHub
-EliteHub, um script brasileiro
+# Elite Hub PRO (Tsuo VerSion)
 
-EliteHub blox fruits:loadstring(game:HttpGet("https://raw.githubusercontent.com/Tsuo7/TsuoHub/main/Tsuoscripts"))()
+tsuohub blox fruits:loadstring(game:HttpGet("https://raw.githubusercontent.com/Tsuo7/TsuoHub/main/Tsuoscripts"))()
 
-EliteHub fisch:loadstring(game:HttpGet("https://raw.githubusercontent.com/Tsuo7/TsuoHub/main/fisch"))()
+tsuohub fisch:loadstring(game:HttpGet("https://raw.githubusercontent.com/Tsuo7/TsuoHub/main/fisch"))()
 
-EliteHub king legacy:loadstring(game:HttpGet("https://raw.githubusercontent.com/Tsuo7/TsuoHub/main/king%20legacy"))()
+tsuohub king legacy:loadstring(game:HttpGet("https://raw.githubusercontent.com/Tsuo7/TsuoHub/main/king%20legacy"))()
 
-entre no discord: https://discord.gg/BNmtnHJW ( copia e cola no seu navegador!
+entre no discord: https://discord.gg/tsuoscripts ( copia e cola no seu navegador)
